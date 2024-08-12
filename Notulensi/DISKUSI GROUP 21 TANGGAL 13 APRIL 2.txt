@@ -1,0 +1,23 @@
+DISKUSI GROUP 21 TANGGAL 13 APRIL 2024
+
+1. Revisi I/O
+	Dashboard atau Otomatis 
+	Kalau dashboard, chart apa saja yang ditampilkan
+	Kalau otomatis, bentuknya seperti apa
+	Butuh variabel apa saja 
+	Butuh basis data yang seperti apa
+	
+2. Timeline Projek:
+	Ekstraksi Data (15 April - 16 April 2024)
+	Rapat Hasil Ekstraksi Data [Bahas Dashboard] (17 April 2024) 
+	Laporan ke Pak Feris (17 April 2024)
+	Follow Up Max Pak Feris (30 April 2024) [email & wa] 25 email,, 26 wa
+	IN CASE OF REVISI
+		Rapat Revisi (Setelah dapat email.....26 April-2 Mei)
+		Revisi(Setelah tanggal 2 Mei)
+	IN CASE OF DASHBOARD MAKING
+		Belajar Tableu (25 April - 30 April 2024)
+		Rapat Pembuatan Dashboard (1 Mei 2024)
+	
+	
+	

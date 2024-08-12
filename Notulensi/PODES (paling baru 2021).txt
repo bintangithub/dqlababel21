@@ -1,0 +1,37 @@
+PODES (paling baru 2021)
+SUSENAS (Kesejahteraan)
+SAKERNAS (SURVEY ANGKATAN KERJAS NASIONAL)
+
+I Evaluasi Per Provinsi di Indonesia
+
+II Pilihan Variabel: 
+
+1. Angkatan kerja ........................................................................................................................v
+2. Tingkat partisipasi angkatan kerja.....................................................................................................x
+3. Tingkat pengangguran terbuka...........................................................................................................v
+4. Populasi...............................................................................................................................x
+5. Tingkat pendidikan (Persentase Penduduk Laki-Laki dan Perempuan Berumur 15 Tahun ke Atas di Daerah Perkotaan dan Perdesaan menurut Provinsi dan Tingkat Pendidikan Tertinggi yang Ditamatkan (Ijazah/STTB Tertinggi yang Dimiliki))................................................................................................................................v
+6. Pertumbuhan ekonomi....................................................................................................................x
+7. Pendapatan provinsi....................................................................................................................v
+8. Investasi..............................................................................................................................v
+9. Tingkat kemiskinan.....................................................................................................................x
+10. Banyak titik WiFi.....................................................................................................................x
+11. Persentase Rumah Tangga yang Memiliki/Menguasai Komputer menurut Provinsi, 2019—2022..................................................v
+12. Persentase Penduduk Usia 5 Tahun ke Atas yang Pernah Mengakses Internet dalam 3 Bulan Terakhir Menurut Provinsi dan Kelompok Umur.....v 
+13. Persentase Penduduk Usia 10 Tahun ke Atas  yang Pernah Mengakses Internet dalam 3 Bulan Terakhir menurut Provinsi dan Lapangan Usaha Utama.....................................................................................................................................v
+
+
+
+Result: 
+1. Angkatan kerja (Bintang)
+2. Tingkat pengangguran terbuka (Bintang)
+3. Tingkat pendidikan (Penduduk Berumur 15 Tahun ke Atas yang Termasuk Angkatan Kerja Menurut Provinsi dan Pendidikan Tertinggi yang Ditamatkan) (Bintang) HAS TO BE DONE
+4. Pendapatan provinsi (Fira)
+5. Investasi (Fira)
+6. Persentase Rumah Tangga yang Memiliki/Menguasai Komputer menurut Provinsi, 2019—2022 (Fira)
+7. Persentase Penduduk Usia 5 Tahun ke Atas yang Pernah Mengakses Internet dalam 3 Bulan Terakhir Menurut Provinsi dan Kelompok Umur (Ashar)
+8. Persentase Penduduk Usia 10 Tahun ke Atas  yang Pernah Mengakses Internet dalam 3 Bulan Terakhir menurut Provinsi dan Lapangan Usaha Utama (Ashar, Ket: Kolom J, Kolom P)
+
+
+
+
